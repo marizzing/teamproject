@@ -1,11 +1,11 @@
-@import url(/reset.css);
+@import url(./reset.css);
 @font-face {
   font-family: UhBee Se_hyun;
-  src: url(../font/UhBee\ Se_hyun.ttf);
+  src: url(./font/UhBee\ Se_hyun.ttf);
 }
 @font-face {
   font-family: UhBee Se_hyun Bold;
-  src: url(../font/UhBee\ Se_hyun\ Bold.ttf.ttf);
+  src: url(./font/UhBee\ Se_hyun\ Bold.ttf.ttf);
 }
 @-webkit-keyframes shake {
   0%, 100% {
